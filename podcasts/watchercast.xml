@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.google.com/schemas/play-podcasts/1.0" xmlns:ns2="https://w3id.org/rp/v1" version="2.0"><channel><title>WatcherCast: An Unofficial Buffy Podcast</title>
+<link>http://www.lunarlightstudio.com/</link>
+<generator>Pinecast (https://pinecast.com)</generator>
+<language>en-US</language><itunes:author>Lunar Light Studio</itunes:author>
+<description>"Into every generation, there is a chosen one. One girl in all the world. She alone will wield the strength and skill to stand against the vampires, the demons, and the forces of darkness..." except in our case, there's two girls! And they will use the strength of their voices and the sharpness of their wit to discuss the themes and ideas of the classic TV show, Buffy the Vampire Slayer.</description>
+<ns1:owner>lunarlightstudio@gmail.com</ns1:owner>
+<ns1:email>lunarlightstudio@gmail.com</ns1:email>
+<itunes:owner>
+<itunes:name>Lunar Light Studio</itunes:name>
+<itunes:email>lunarlightstudio@gmail.com</itunes:email>
+</itunes:owner>
+<itunes:explicit>yes</itunes:explicit>
+<itunes:image href="https://archive.org/download/watchercast-lls/folder.jpg" />
+<image>
+<title>WatcherCast: An Unofficial Buffy Podcast</title>
+<link>http://www.lunarlightstudio.com/</link>
+<url>https://archive.org/download/watchercast-lls/folder.jpg</url>
+</image><itunes:type>episodic</itunes:type>
+<copyright>Copywrite LLS 2016</copyright>
+<ns2:cta headline="Support WatcherCast: An Unofficial Buffy Podcast" subtitle="Give back to your favorite content creators.">
+<ns2:action class="financial" disposition="positive" href="https://tips.pinecast.com/jar/watchercast" label="Contribute" />
+</ns2:cta>
+
+<itunes:category text="TV &amp; Film" />
+<item><title>Season 1: Episode 3 - The Witch</title>
+<guid isPermaLink="false">https://pinecast.com/guid/faaa91a6-910f-40a0-9d72-752a87601fff</guid>
+<pubDate>Wed, 26 Apr 2017 21:04:13 -0000</pubDate>
+<itunes:duration>00:39:12</itunes:duration>
+<itunes:image href="https://storage.pinecast.net/podcasts/92d800b8-885d-473c-b7a6-e0df64253ba4/image/7f5d2c50-7116-481b-af49-e50cde7c8851/WatcherCast_Logo.jpg" />
+<description>&lt;h1&gt;Episode Notes&lt;/h1&gt;
+
+&lt;p&gt;Welcome back to WatcherCast hosted by Hannah Boyens and Lillian Kraack! WatcherCast is produced by Lunar Light Studio. This episode is all about Buffy the Vampire Slayer Season 1 Episode 3: The Witch.&lt;/p&gt;
+
+&lt;p&gt;Check us out on our social media and please review us on iTunes!
+Tumblr: http://lunarlightstudio.tumblr.com/
+Facebook: https://www.facebook.com/lunarlightstudios
+Patreon: https://www.patreon.com/lunarlightstudio&lt;/p&gt;
+
+&lt;p&gt;If you need help, please contact 1−800−799−7233 or 1-800-787-3224 (TTY). &lt;/p&gt;
+
+&lt;p&gt;Thank you for listening!!&lt;/p&gt;
+
+&lt;p&gt;This podcast is powered by &lt;a href="https://pinecast.com"&gt;Pinecast&lt;/a&gt;.&lt;/p&gt;
+</description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://archive.org/download/watchercast-lls/Season%201_%20Episode%203%20_%20The%20Witch%20%28https___pinecast.com_guid_faaa91a6_910f_40a0_9d72_752a87601fff%29.mp3" length="75296938" type="audio/mp3" />
+<dc:rights>None</dc:rights>
+</item>
+<item><title>Season 1: Episode 2 - The Harvest</title>
+<guid isPermaLink="false">https://pinecast.com/guid/2f9f1b13-3e53-4e1d-8deb-ee3f61d52e7a</guid>
+<pubDate>Fri, 31 Mar 2017 22:12:49 -0000</pubDate>
+<itunes:duration>00:33:58</itunes:duration>
+<itunes:image href="https://storage.pinecast.net/podcasts/92d800b8-885d-473c-b7a6-e0df64253ba4/image/52a0f1be-99d2-4863-9106-e7f1e7ac4cf4/WatcherCast_Logo.jpg" />
+<description>&lt;h1&gt;Episode Notes&lt;/h1&gt;
+
+&lt;p&gt;Welcome back to WatcherCast hosted by Hannah Boyens and Lillian Kraack! WatcherCast is produced by Lunar Light Studio. This episode is all about Buffy the Vampire Slayer Season 1 Episode 2: The Harvest.&lt;/p&gt;
+
+&lt;p&gt;Check us out on our social media and please review us on iTunes!
+Tumblr: http://lunarlightstudio.tumblr.com/
+Facebook: https://www.facebook.com/lunarlightstudios
+Patreon: https://www.patreon.com/lunarlightstudio&lt;/p&gt;
+
+&lt;p&gt;Thank you for listening!!&lt;/p&gt;
+
+&lt;p&gt;This podcast is powered by &lt;a href="https://pinecast.com"&gt;Pinecast&lt;/a&gt;.&lt;/p&gt;
+</description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://archive.org/download/watchercast-lls/Season%201_%20Episode%202%20_%20The%20Harvest%20%28https___pinecast.com_guid_2f9f1b13_3e53_4e1d_8deb_ee3f61d52e7a%29.mp3" length="65222450" type="audio/mp3" />
+<dc:rights>None</dc:rights>
+</item>
+<item><title>Season 1: Episode 1 - Welcome to the Hellmouth</title>
+<guid isPermaLink="false">https://pinecast.com/guid/d78308ba-4cd5-43f8-8f9d-96a31e8c7cfc</guid>
+<pubDate>Wed, 01 Mar 2017 18:00:00 -0000</pubDate>
+<itunes:duration>00:46:17</itunes:duration>
+<itunes:image href="https://storage.pinecast.net/podcasts/92d800b8-885d-473c-b7a6-e0df64253ba4/image/5e38683c-27e1-40c8-8958-4129b10819da/WatcherCast_Logo.jpg" />
+<description>&lt;h1&gt;Episode Notes&lt;/h1&gt;
+
+&lt;p&gt;Welcome to WatcherCast hosted by Hannah Boyens and Lillian Kraack! WatcherCast is produced by Lunar Light Studio. This episode is all about Buffy the Vampire Slayer Season 1 Episode 1: Welcome to the Hellmouth.&lt;/p&gt;
+
+&lt;p&gt;Check us out on our social media and please review us on iTunes! 
+Tumblr: http://lunarlightstudio.tumblr.com/
+Facebook: https://www.facebook.com/lunarlightstudios
+Patreon: https://www.patreon.com/lunarlightstudio&lt;/p&gt;
+
+&lt;p&gt;Check out The Passion of the Nerd episode we reference here:
+www.youtube.com/watch?v=KajmDPePk…EoGOHNJ8qi7NemRkT&lt;/p&gt;
+
+&lt;p&gt;Thank you for listening!!&lt;/p&gt;
+
+&lt;p&gt;This podcast is powered by &lt;a href="https://pinecast.com"&gt;Pinecast&lt;/a&gt;.&lt;/p&gt;
+</description>
+<itunes:explicit>yes</itunes:explicit>
+<enclosure url="https://archive.org/download/watchercast-lls/Season%201_%20Episode%201%20_%20Welcome%20to%20the%20Hellmouth%20%28https___pinecast.com_guid_d78308ba_4cd5_43f8_8f9d_96a31e8c7cfc%29.mp3" length="88885628" type="audio/mp3" />
+</item>
+<item><title>WatcherCast: Promo #1</title>
+<guid isPermaLink="false">https://pinecast.com/guid/fa85d6b5-75a6-4895-b96f-e82d6ce615c4</guid>
+<pubDate>Fri, 10 Feb 2017 18:00:00 -0000</pubDate>
+<itunes:duration>00:01:06</itunes:duration>
+<itunes:image href="https://storage.pinecast.net/podcasts/92d800b8-885d-473c-b7a6-e0df64253ba4/image/5e38683c-27e1-40c8-8958-4129b10819da/WatcherCast_Logo.jpg" />
+<description>&lt;h1&gt;Episode Notes&lt;/h1&gt;
+
+&lt;p&gt;An all new, hilarious, informative, and entertaining podcast all about the hit TV show, Buffy the Vampire Slayer! Come hang out with two college girls as they talk about one of their favorite TV shows and how it changed their lives for the better. WatcherCast premiers on March 1st! &lt;/p&gt;
+
+&lt;p&gt;This podcast is powered by &lt;a href="https://pinecast.com"&gt;Pinecast&lt;/a&gt;.&lt;/p&gt;
+</description>
+<itunes:explicit>clean</itunes:explicit>
+<enclosure url="https://archive.org/download/watchercast-lls/WatcherCast_%20Promo%20%231%20%28https___pinecast.com_guid_fa85d6b5_75a6_4895_b96f_e82d6ce615c4%29.mp3" length="2145719" type="audio/mp3" />
+</item>
+</channel></rss>
