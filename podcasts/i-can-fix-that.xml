@@ -33,7 +33,7 @@
 &lt;p&gt;This podcast is powered by &lt;a href="https://pinecast.com" rel="nofollow"&gt;Pinecast&lt;/a&gt;.&lt;/p&gt;</description>
 <itunes:title>Telltale Games</itunes:title>
 <itunes:explicit>no</itunes:explicit>
-<enclosure length="100807352" type="audio/mpeg" url="https://lunar-light-archive.github.io/podcasts/https___pinecast.com_feed_i_can_fix_that/S1_E5%20_Telltale%20Games%20%28https___pinecast.com_guid_fbc20524_2f46_483c_854c_85a8c2f9f268%29.mp3" />
+<enclosure url="https://lunar-light-archive.github.io/podcasts/https___pinecast.com_feed_i_can_fix_that/S1_E5%20_Telltale%20Games%20%28https___pinecast.com_guid_fbc20524_2f46_483c_854c_85a8c2f9f268%29.mp3" length="100807352" type="audio/mpeg" />
 <itunes:season>1</itunes:season>
 <itunes:episode>5</itunes:episode>
 </item>
@@ -53,7 +53,7 @@
 &lt;p&gt;This podcast is powered by &lt;a href="https://pinecast.com" rel="nofollow"&gt;Pinecast&lt;/a&gt;.&lt;/p&gt;</description>
 <itunes:title>Star Wars</itunes:title>
 <itunes:explicit>no</itunes:explicit>
-<enclosure length="128210730" type="audio/mpeg" url="https://lunar-light-archive.github.io/podcasts/https___pinecast.com_feed_i_can_fix_that/S1_E4%20_Star%20Wars%20%28https___pinecast.com_guid_7182da8c_c311_43f2_a870_db579931eb26%29.mp3" />
+<enclosure url="https://lunar-light-archive.github.io/podcasts/https___pinecast.com_feed_i_can_fix_that/S1_E4%20_Star%20Wars%20%28https___pinecast.com_guid_7182da8c_c311_43f2_a870_db579931eb26%29.mp3" length="128210730" type="audio/mpeg" />
 <itunes:season>1</itunes:season>
 <itunes:episode>4</itunes:episode>
 </item>
@@ -73,7 +73,7 @@
 &lt;p&gt;This podcast is powered by &lt;a href="https://pinecast.com" rel="nofollow"&gt;Pinecast&lt;/a&gt;.&lt;/p&gt;</description>
 <itunes:title>Game of Thrones</itunes:title>
 <itunes:explicit>no</itunes:explicit>
-<enclosure length="200329359" type="audio/mpeg" url="https://lunar-light-archive.github.io/podcasts/https___pinecast.com_feed_i_can_fix_that/S1_E3%20_Game%20of%20Thrones%20%28https___pinecast.com_guid_65ad14fb_ccac_4e1a_a250_5ad213dfc591%29.mp3" />
+<enclosure url="https://lunar-light-archive.github.io/podcasts/https___pinecast.com_feed_i_can_fix_that/S1_E3%20_Game%20of%20Thrones%20%28https___pinecast.com_guid_65ad14fb_ccac_4e1a_a250_5ad213dfc591%29.mp3" length="200329359" type="audio/mpeg" />
 <itunes:season>1</itunes:season>
 <itunes:episode>3</itunes:episode>
 </item>
@@ -96,7 +96,7 @@
 &lt;strong&gt;&lt;a href="https://twitter.com/EightBitArt" rel="nofollow"&gt;Emmanuel Esparza&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
 <itunes:title>Harry Potter</itunes:title>
 <itunes:explicit>no</itunes:explicit>
-<enclosure length="93052732" type="audio/mp3" url="https://lunar-light-archive.github.io/podcasts/https___pinecast.com_feed_i_can_fix_that/S1_E2%20_Harry%20Potter%20%28https___pinecast.com_guid_8b503832_e3de_4d6e_9fca_47e36586529d%29" />
+<enclosure url="https://lunar-light-archive.github.io/podcasts/https___pinecast.com_feed_i_can_fix_that/S1_E2%20_Harry%20Potter%20%28https___pinecast.com_guid_8b503832_e3de_4d6e_9fca_47e36586529d%29.mp3" length="93052732" type="audio/mp3" />
 <itunes:season>1</itunes:season>
 <itunes:episode>2</itunes:episode>
 </item>
@@ -119,7 +119,7 @@
 &lt;strong&gt;&lt;a href="https://twitter.com/EightBitArt" rel="nofollow"&gt;Emmanuel Esparza&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
 <itunes:title>Danny Phantom</itunes:title>
 <itunes:explicit>no</itunes:explicit>
-<enclosure length="102073547" type="audio/mp3" url="https://lunar-light-archive.github.io/podcasts/https___pinecast.com_feed_i_can_fix_that/S1_E1%20_Danny%20Phantom%20%28https___pinecast.com_guid_69a9bfcd_1cde_4f16_955f_b96d564014d6%29" />
+<enclosure url="https://lunar-light-archive.github.io/podcasts/https___pinecast.com_feed_i_can_fix_that/S1_E1%20_Danny%20Phantom%20%28https___pinecast.com_guid_69a9bfcd_1cde_4f16_955f_b96d564014d6%29.mp3" length="102073547" type="audio/mp3" />
 <itunes:season>1</itunes:season>
 <itunes:episode>1</itunes:episode>
 </item>
