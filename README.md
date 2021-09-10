@@ -1,2 +1,2 @@
 # lunar-light-archive.github.io
-Podcast feed hosting for the Lunar Light Archive
+Website and podcast feed hosting for the Lunar Light Archive
